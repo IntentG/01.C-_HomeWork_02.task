@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Manual Rejected
+01.C#_HomeWork_02.task.csproj
